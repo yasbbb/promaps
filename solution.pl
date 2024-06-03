@@ -1,3 +1,5 @@
+%never touching this code again
+
 dim(Map, Height, Width) :-
     length(Map, Height),
     Map = [Row|_],
